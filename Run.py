@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup as sop
 from rich.progress import Progress,BarColumn,TextColumn,TimeElapsedColumn
 from rich.progress import SpinnerColumn
 from concurrent.futures import ThreadPoolExecutor as tred
-dari  kaya . panel  mengimpor  Panel  sebagai  nel
+from rich.panel import Panel as nel
 from rich import print as cetak
 from rich.columns import Columns as col
 from rich import print as prints

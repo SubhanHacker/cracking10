@@ -18,5 +18,5 @@ cd cracking10
 
 ls
 
-python run.py
+python Run.py
 

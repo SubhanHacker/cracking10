@@ -1,8 +1,8 @@
 # cracking10
-Ini cuma gabut aja ya
+!Ini cuma gabut aja ya
   
 
-Install bahan dulu ya sayang
+!!!Install bahan dulu ya sayang!!!
 
 pkg update
 
